@@ -1,1 +1,2 @@
-projeto criado em aula com banco de dados mariadb e php
+- projeto criado em aula com banco de dados mariadb e php
+- removido dois arquivos irrelevantes para o projeto
